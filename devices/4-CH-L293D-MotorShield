@@ -1,0 +1,8 @@
+/* Copyright (c) 2019 David Vannucci, MIT Licence */
+/* Adafruit 4 Channel 4 Channel L293D Motor Control Shield 
+* based off http://www.communica.co.za/Catalog/Details/P2160593459
+* derived from https://www.espruino.com/modules/arduino-motorshield.js
+* and https://playground.arduino.cc/Main/AdafruitMotorShield
+* Pixl.js: `var motor = require("4-CH-L293D-MotorShield").connect()`
+*/
+
